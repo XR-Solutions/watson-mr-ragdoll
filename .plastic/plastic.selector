@@ -1,0 +1,4 @@
+repository "objectss inspawnenn@doeihallo575@cloud"
+  path "/"
+    br "/main"
+    co "/main"
